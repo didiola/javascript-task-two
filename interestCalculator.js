@@ -63,4 +63,4 @@ const interestCalculator = (data) => {
   return interestData;
 }
 
-console.log(interestCalculator(data))
+interestCalculator(data);
