@@ -1,5 +1,5 @@
 /**
- * @author Didola
+ * @author Didiola
  * @description Interest calculator that calculates multiple of interest at a go
  */
 
